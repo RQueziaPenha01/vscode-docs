@@ -502,3 +502,4 @@ If you'd like to ignore line wraps when adding cursors above or below your curre
   "args": { "logicalLine": true },
 },
 ```
+
